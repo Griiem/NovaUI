@@ -14,3 +14,5 @@ local canvas = Instance.new("Frame", gui)
     canvas.Position = UDim2.fromScale(.5, .5)
     canvas.AnchorPoint = Vector2.new(.5, .5)
     canvas.BackgroundTransparency = 1
+
+return gui
